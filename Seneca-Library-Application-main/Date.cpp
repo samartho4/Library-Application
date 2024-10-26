@@ -5,15 +5,6 @@ Module: Date.cpp
 Filename: Date.cpp
 Version 1.0
 Author: Fardad Soleimanloo
-Revision History
------------------------------------------------------------
-Date      Reason
-2023/12/08  Preliminary release
-2023/02/08  Debugged DMA
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my workshops and assignments.
------------------------------------------------------------*/
 
 
 #define _CRT_SECURE_NO_WARNINGS
