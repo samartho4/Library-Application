@@ -4,16 +4,6 @@ Module: Menu.cpp
 Filename: Menu.cpp
 Version 1.0
 Author: Fardad Soleimanloo
-Revision History
------------------------------------------------------------
-Date      Reason
-2023/21/07  Preliminary release
-2023/22/07  Debugged DMA
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my workshops and assignments.
------------------------------------------------------------*/
-
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
